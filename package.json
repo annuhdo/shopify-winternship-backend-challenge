@@ -1,0 +1,16 @@
+{
+  "name": "shopify-merchants-validation",
+  "version": "1.0.0",
+  "description": "Backend Intern Challenge for Winternship 2017",
+  "main": "app.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Anna",
+  "license": "ISC"
+}
